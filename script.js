@@ -7,8 +7,6 @@ const overlay = document.querySelector(".overlay");
 const btnclosemodal = document.querySelector(".close-modal");
 const btnOpenModal = document.querySelectorAll(".show-modal");
 
-console.log(modal);
-
 // this will display modal as well overlay by removing hidden class from modal  and overlay element content
 const displaymodal = function () {
   modal.classList.remove("hidden");
