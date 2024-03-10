@@ -2,7 +2,7 @@
 
 Welcome to my modal project! This project demonstrates how to create a modal using HTML, CSS, and JavaScript. It's built using Parcel and hosted on Netlify.
 
-URL:https://modal-practise.netlify.app/
+# URL:https://modal-practise.netlify.app/
 
 
 ## Table of Contents
